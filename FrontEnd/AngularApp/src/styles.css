@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+.navbar{
+    padding: 0px;
+}
+.navbar-brand {
+    padding-top: 0px;
+}
+.btn-search{
+    padding-top: 30px;
+}
+#date-ctrl{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#table-row{
+    padding-top: 50px;
+}
+.comp-select{
+    width:60%;
+    height:2.5rem;
+    float:left;
+}
+.btn-find{
+    width:25%;
+    margin-bottom: 5px;
+    float: left;
+}
