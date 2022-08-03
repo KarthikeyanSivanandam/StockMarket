@@ -25,3 +25,4 @@ CreatedOn datetime2,
 Price decimal(18,2),
 )
 
+Server=tcp:fsesqlserver.database.windows.net,1433;Initial Catalog=CompanyDb;Persist Security Info=False;User ID=fseadmin;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
