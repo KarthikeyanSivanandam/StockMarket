@@ -26,3 +26,6 @@ Price decimal(18,2),
 )
 
 Server=tcp:fsesqlserver.database.windows.net,1433;Initial Catalog=CompanyDb;Persist Security Info=False;User ID=fseadmin;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+bc_wallet_220628_emiwuxhcxy@BuilderCloudProvisioning.onmicrosoft.com
+zlq27UBq!
+
